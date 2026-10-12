@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tewei02.github.io/writings/sitemap.xml

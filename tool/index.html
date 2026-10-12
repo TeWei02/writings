@@ -191,6 +191,18 @@ noscript{display:block;background:var(--badbg);color:var(--bad);padding:12px;bor
 </style>
 </head>
 <body>
+<div id="promo-bar">
+  <span class="pb-zh">這是<b>免費版</b>（單一學校／系組）。需要<b>多校多包管理、跨包重複偵測、一鍵匯出</b>？<a href="https://tewei02.github.io/writings/">看完整版 →</a></span>
+  <span class="pb-en">Free single-school version. Need multi-school packages, cross-package duplicate detection, one-click export? <a href="https://tewei02.github.io/writings/">See the full version →</a></span>
+</div>
+<style>
+#promo-bar{background:#0d2b26;color:#bfeee2;font-size:13px;line-height:1.6;padding:9px 16px;text-align:center;border-bottom:1px solid rgba(0,212,170,.22);font-family:inherit}
+#promo-bar b{color:#fff}
+#promo-bar a{color:#00d4aa;font-weight:700;text-decoration:none;border-bottom:1px solid rgba(0,212,170,.45);white-space:nowrap}
+#promo-bar a:hover{border-bottom-color:#00d4aa}
+#promo-bar .pb-en{opacity:.62;font-size:12px;display:block;margin-top:2px}
+@media print{#promo-bar{display:none!important}}
+</style>
 <header>
   <div class="hrow">
     <div class="hmain">
