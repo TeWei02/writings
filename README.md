@@ -33,6 +33,12 @@
 
 - [書審資料包產生器](https://github.com/TeWei02/application-package-generator) — 單一 HTML，可離線使用
 
+## 聯絡與合作
+
+作者：柯德瑋（Te-Wei Ko，GitHub: [TeWei02](https://github.com/TeWei02)）
+所在地：臺南，臺灣
+歡迎透過 GitHub 發 Issue / PR 交流，或從個人頁面找到聯絡管道。
+
 ## 授權
 
 文章採用 [CC BY-NC-ND 4.0](LICENSE)（姓名標示 — 非商業性 — 禁止改作）。
